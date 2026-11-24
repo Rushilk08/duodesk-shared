@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DuoDesk</string>
+    <string name="tagline">Your space. Our progress.</string>
+    <string name="home_headline">Let\'s make today productive.</string>
+    <string name="todays_progress">Today\'s Progress</string>
+    <string name="completed_today">completed today</string>
+    <string name="todays_tasks">Today\'s Tasks</string>
+    <string name="view_all">View All</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="open_calendar">Open calendar</string>
+    <string name="my_space">My Space</string>
+    <string name="shared_space">Shared Space</string>
+    <string name="calendar">Calendar</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="add_to_my_space">Add to My Space</string>
+    <string name="add_shared_item">Add shared item</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="reset_sample_data">Reset sample data</string>
+    <string name="save_profile">Save profile</string>
+</resources>
