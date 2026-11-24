@@ -1,0 +1,8 @@
+{
+  "name": "DuoDesk",
+  "description": "Two-person collaborative productivity platform — Your space. Our progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
